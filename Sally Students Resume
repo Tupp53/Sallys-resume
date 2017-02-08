@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head> <title>Sally Students Resume</title>
+
+  <meta name="A resume for Sally Student" content="Sally Student is a hard work graduate from the Univeristy Of Georiga. Majored in Business and has extensive experience in the work force"
+        </head>
+  
+<main>
+  <p>Sally Student</p>
+  <img src="http://ia.media-imdb.com/images/M/MV5BMTY5NzE3NzU3MF5BMl5BanBnXkFtZTgwMjg0NTQ5MDE@._V1_UX214_CR0,0,214,317_AL_.jpg">
+       
+  <address>
+    <a href="mailto:sallystudent123@example.com">Email:sallystudent123@example.com</a>
+    
+    <p>Home phone number: 770-123-4567</p>
+    <p>Cell number: 678-123-4567</p>
+  </address>
+  
+  <section>
+    <h1>College Education</h1>
+    <p>Graduated at the top of my class from the University of Georgia with a Bachelors Degree in Business. 
+  </section>
+  
+  <section>
+    <h1>Employment History</h1>
+    <p>Clif Bar & Company</p>
+    
+    <ul>
+      <li>Marketing Manager</li>
+      <li>Worked there for six months between March and August of 2016.</li>
+      <li>Job Description: Marketing Managers focus on perfect execution and maximize on the ground resources to deliver high quality engagements with target consumers while fostering strong community relationships and elevating key insights up the chain to influence future strategy.</li>
+    </ul>
+    
+    <p>Turner Broadcasting<p>
+    
+    <ul>
+       <li>Currently employed by Tuner Broadcating as a Marketing Director.</li>
+      <li>Current employeer since August of 2016.</li>
+      <li>Job Description: Develop, sell and execute long-range marketing planning for priority properties. Be constantly tracking and analyzing the brand and communication of the brand for successes and new opportunities across a wide range of platforms from social to digital.</li>
+    </ul>
+
+   </main>  
+   </html>
